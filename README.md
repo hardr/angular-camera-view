@@ -1,4 +1,4 @@
-https://hardr.github.io/angular-camera-view/
+https://ryanharings.github.io/angular-camera-view/
 
 # Angular Camera View
 
